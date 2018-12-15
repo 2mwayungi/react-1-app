@@ -1,7 +1,7 @@
 {
   "name": "expensify",
   "version": "1.0.0",
-  "homepage":"https://github.com/2mwayungi/ravenous"
+  "homepage":"https://github.com/2mwayungi/ravenous",
   "main": "index.js",
   "author": "Andrew Mead",
   "license": "MIT",
